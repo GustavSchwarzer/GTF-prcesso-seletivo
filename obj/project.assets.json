@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gtwco\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Curso C#\\Projetos\\Projeto Final\\AulasDio\\RPG-abstracao\\AulasDio.csproj",
-      "projectName": "AulasDio",
-      "projectPath": "C:\\Users\\gtwco\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Curso C#\\Projetos\\Projeto Final\\AulasDio\\RPG-abstracao\\AulasDio.csproj",
+      "projectUniqueName": "C:\\Users\\gtwco\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Curso C#\\Projetos\\Projeto Final\\AulasDio\\RPG-abstracao\\Dio-Flix.csproj",
+      "projectName": "Dio-Flix",
+      "projectPath": "C:\\Users\\gtwco\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Curso C#\\Projetos\\Projeto Final\\AulasDio\\RPG-abstracao\\Dio-Flix.csproj",
       "packagesPath": "C:\\Users\\gtwco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gtwco\\OneDrive\\Documentos\\PROGRAMAÇÃO\\Curso C#\\Projetos\\Projeto Final\\AulasDio\\RPG-abstracao\\obj\\",
       "projectStyle": "PackageReference",

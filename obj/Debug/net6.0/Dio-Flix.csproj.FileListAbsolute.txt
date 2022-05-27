@@ -1,0 +1,15 @@
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.csproj.AssemblyReference.cache
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.AssemblyInfoInputs.cache
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.AssemblyInfo.cs
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.csproj.CoreCompileInputs.cache
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\bin\Debug\net6.0\Dio-Flix.exe
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\bin\Debug\net6.0\Dio-Flix.deps.json
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\bin\Debug\net6.0\Dio-Flix.runtimeconfig.json
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\bin\Debug\net6.0\Dio-Flix.dll
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\bin\Debug\net6.0\Dio-Flix.pdb
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.dll
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\refint\Dio-Flix.dll
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.pdb
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\Dio-Flix.genruntimeconfig.cache
+C:\Users\gtwco\OneDrive\Documentos\PROGRAMAÇÃO\Curso C#\Projetos\Projeto Final\AulasDio\RPG-abstracao\obj\Debug\net6.0\ref\Dio-Flix.dll
